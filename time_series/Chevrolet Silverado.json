@@ -1,0 +1,1132 @@
+{
+  "Chevrolet Silverado": {
+    "Indeterminate": {
+      "day": {
+        "20.05.2018": {
+          "avg_sentiment": 0.013268321752548162,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "06.07.2018": {
+          "avg_sentiment": -0.7565095424652101,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "27.11.2018": {
+          "avg_sentiment": 0.007698148488998496,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "10.12.2018": {
+          "avg_sentiment": 0.061889201402664185,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "31.01.2019": {
+          "avg_sentiment": -0.8479975536465645,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "04.04.2019": {
+          "avg_sentiment": -0.2233136147260666,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "31.07.2019": {
+          "avg_sentiment": -0.37398040294647217,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "27.09.2019": {
+          "avg_sentiment": 0.7341763228178025,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "07.10.2019": {
+          "avg_sentiment": -0.0651119202375412,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "11.10.2019": {
+          "avg_sentiment": 0.1516609787940979,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "01.07.2020": {
+          "avg_sentiment": 0.9534894293174146,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "05.11.2020": {
+          "avg_sentiment": -0.3618495762348175,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "13.02.2021": {
+          "avg_sentiment": 0.7032689768821002,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "01.03.2021": {
+          "avg_sentiment": -0.8050574027001858,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "08.03.2021": {
+          "avg_sentiment": -0.2047395557165146,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "05.06.2021": {
+          "avg_sentiment": -0.3479424417018891,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "10.07.2021": {
+          "avg_sentiment": -0.80979423224926,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "20.08.2021": {
+          "avg_sentiment": -0.49606011807918554,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "03.09.2021": {
+          "avg_sentiment": -0.5274737179279327,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "13.10.2021": {
+          "avg_sentiment": -0.8870383966714146,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "17.10.2021": {
+          "avg_sentiment": 0.8577637933194637,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "09.11.2021": {
+          "avg_sentiment": -0.6637311428785324,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "28.12.2021": {
+          "avg_sentiment": -0.5158941000699998,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "07.01.2022": {
+          "avg_sentiment": 0.6504998430609704,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "26.01.2022": {
+          "avg_sentiment": 0.5553620103746654,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "28.03.2022": {
+          "avg_sentiment": -0.539407953619957,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "02.05.2022": {
+          "avg_sentiment": -0.0661342069506645,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "22.06.2022": {
+          "avg_sentiment": -0.4716109931468965,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "05.07.2022": {
+          "avg_sentiment": 0.7914801388978959,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "15.08.2022": {
+          "avg_sentiment": 0.2098913490772248,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "18.08.2022": {
+          "avg_sentiment": -0.4265445396304131,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "09.09.2022": {
+          "avg_sentiment": 0.8251820001751184,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "15.11.2022": {
+          "avg_sentiment": 0.445823360234499,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "02.01.2023": {
+          "avg_sentiment": 0.542449925094843,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "08.02.2023": {
+          "avg_sentiment": -0.7953313514590263,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "08.03.2023": {
+          "avg_sentiment": -0.7177122160792351,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "24.03.2023": {
+          "avg_sentiment": 0.6472977325320244,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "16.04.2023": {
+          "avg_sentiment": 0.2890514135360718,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "27.04.2023": {
+          "avg_sentiment": -0.6240962147712709,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "28.04.2023": {
+          "avg_sentiment": -0.4018777906894685,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "01.05.2023": {
+          "avg_sentiment": -0.666917122900486,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "28.05.2023": {
+          "avg_sentiment": -0.2285267114639282,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "10.06.2023": {
+          "avg_sentiment": 0.8645680025219918,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "11.07.2023": {
+          "avg_sentiment": -0.8340131379663944,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "17.08.2023": {
+          "avg_sentiment": -0.5598073899745941,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "21.08.2023": {
+          "avg_sentiment": 0.33153166621923447,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "08.11.2023": {
+          "avg_sentiment": 0.2509032897651196,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "03.01.2024": {
+          "avg_sentiment": -0.4229419380426407,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "04.01.2024": {
+          "avg_sentiment": -0.03378868103027349,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "05.01.2024": {
+          "avg_sentiment": 0.08012838661670679,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "16.03.2024": {
+          "avg_sentiment": -0.6779882088303566,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "02.04.2024": {
+          "avg_sentiment": -0.8594752997159958,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "19.05.2024": {
+          "avg_sentiment": -0.5507860481739044,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "20.08.2024": {
+          "avg_sentiment": -0.5887818560004234,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "03.09.2024": {
+          "avg_sentiment": -0.1817902997136116,
+          "counts": 2,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "17.09.2024": {
+          "avg_sentiment": -0.24342028796672818,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "15.10.2024": {
+          "avg_sentiment": -0.3321433514356613,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "03.12.2024": {
+          "avg_sentiment": -0.5782763659954071,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "13.01.2025": {
+          "avg_sentiment": -0.6524912789463997,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "31.01.2025": {
+          "avg_sentiment": 0.4299582242965698,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        }
+      },
+      "week": {
+        "14.05.2018": {
+          "avg_sentiment": 0.013268321752548162,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "02.07.2018": {
+          "avg_sentiment": -0.7565095424652101,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "26.11.2018": {
+          "avg_sentiment": 0.007698148488998496,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "10.12.2018": {
+          "avg_sentiment": 0.061889201402664185,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "28.01.2019": {
+          "avg_sentiment": -0.8479975536465645,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "01.04.2019": {
+          "avg_sentiment": -0.2233136147260666,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "29.07.2019": {
+          "avg_sentiment": -0.37398040294647217,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "23.09.2019": {
+          "avg_sentiment": 0.7341763228178025,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "07.10.2019": {
+          "avg_sentiment": 0.04327452927827835,
+          "counts": 2,
+          "neutral_count": 1,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "29.06.2020": {
+          "avg_sentiment": 0.9534894293174146,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "02.11.2020": {
+          "avg_sentiment": -0.3618495762348175,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "08.02.2021": {
+          "avg_sentiment": 0.7032689768821002,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "01.03.2021": {
+          "avg_sentiment": -0.8050574027001858,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "08.03.2021": {
+          "avg_sentiment": -0.2047395557165146,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "31.05.2021": {
+          "avg_sentiment": -0.3479424417018891,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "05.07.2021": {
+          "avg_sentiment": -0.80979423224926,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "16.08.2021": {
+          "avg_sentiment": -0.49606011807918554,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "30.08.2021": {
+          "avg_sentiment": -0.5274737179279327,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "11.10.2021": {
+          "avg_sentiment": -0.014637301675975434,
+          "counts": 2,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 1
+        },
+        "08.11.2021": {
+          "avg_sentiment": -0.6637311428785324,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "27.12.2021": {
+          "avg_sentiment": -0.5158941000699998,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "03.01.2022": {
+          "avg_sentiment": 0.6504998430609704,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "24.01.2022": {
+          "avg_sentiment": 0.5553620103746654,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "28.03.2022": {
+          "avg_sentiment": -0.539407953619957,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "02.05.2022": {
+          "avg_sentiment": -0.0661342069506645,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "20.06.2022": {
+          "avg_sentiment": -0.4716109931468965,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "04.07.2022": {
+          "avg_sentiment": 0.7914801388978959,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "15.08.2022": {
+          "avg_sentiment": -0.10832659527659416,
+          "counts": 2,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 1
+        },
+        "05.09.2022": {
+          "avg_sentiment": 0.8251820001751184,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "14.11.2022": {
+          "avg_sentiment": 0.445823360234499,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "02.01.2023": {
+          "avg_sentiment": 0.542449925094843,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "06.02.2023": {
+          "avg_sentiment": -0.7953313514590263,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "06.03.2023": {
+          "avg_sentiment": -0.7177122160792351,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "20.03.2023": {
+          "avg_sentiment": 0.6472977325320244,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "10.04.2023": {
+          "avg_sentiment": 0.2890514135360718,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "24.04.2023": {
+          "avg_sentiment": -0.5129870027303697,
+          "counts": 2,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 2
+        },
+        "01.05.2023": {
+          "avg_sentiment": -0.666917122900486,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "22.05.2023": {
+          "avg_sentiment": -0.2285267114639282,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "05.06.2023": {
+          "avg_sentiment": 0.8645680025219918,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "10.07.2023": {
+          "avg_sentiment": -0.8340131379663944,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "14.08.2023": {
+          "avg_sentiment": -0.5598073899745941,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "21.08.2023": {
+          "avg_sentiment": 0.33153166621923447,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "06.11.2023": {
+          "avg_sentiment": 0.2509032897651196,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "01.01.2024": {
+          "avg_sentiment": -0.12553407748540246,
+          "counts": 3,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 2
+        },
+        "11.03.2024": {
+          "avg_sentiment": -0.6779882088303566,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "01.04.2024": {
+          "avg_sentiment": -0.8594752997159958,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "13.05.2024": {
+          "avg_sentiment": -0.5507860481739044,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "19.08.2024": {
+          "avg_sentiment": -0.5887818560004234,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "02.09.2024": {
+          "avg_sentiment": -0.1817902997136116,
+          "counts": 2,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "16.09.2024": {
+          "avg_sentiment": -0.24342028796672818,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "14.10.2024": {
+          "avg_sentiment": -0.3321433514356613,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "02.12.2024": {
+          "avg_sentiment": -0.5782763659954071,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "13.01.2025": {
+          "avg_sentiment": -0.6524912789463997,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "27.01.2025": {
+          "avg_sentiment": 0.4299582242965698,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        }
+      },
+      "month": {
+        "05.2018": {
+          "avg_sentiment": 0.013268321752548162,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "07.2018": {
+          "avg_sentiment": -0.7565095424652101,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "11.2018": {
+          "avg_sentiment": 0.007698148488998496,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "12.2018": {
+          "avg_sentiment": 0.061889201402664185,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "01.2019": {
+          "avg_sentiment": -0.8479975536465645,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "04.2019": {
+          "avg_sentiment": -0.2233136147260666,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "07.2019": {
+          "avg_sentiment": -0.37398040294647217,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "09.2019": {
+          "avg_sentiment": 0.7341763228178025,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "10.2019": {
+          "avg_sentiment": 0.04327452927827835,
+          "counts": 2,
+          "neutral_count": 1,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "07.2020": {
+          "avg_sentiment": 0.9534894293174146,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "11.2020": {
+          "avg_sentiment": -0.3618495762348175,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "02.2021": {
+          "avg_sentiment": 0.7032689768821002,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "03.2021": {
+          "avg_sentiment": -0.5048984792083502,
+          "counts": 2,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "06.2021": {
+          "avg_sentiment": -0.3479424417018891,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "07.2021": {
+          "avg_sentiment": -0.80979423224926,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "08.2021": {
+          "avg_sentiment": -0.49606011807918554,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "09.2021": {
+          "avg_sentiment": -0.5274737179279327,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "10.2021": {
+          "avg_sentiment": -0.014637301675975434,
+          "counts": 2,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 1
+        },
+        "11.2021": {
+          "avg_sentiment": -0.6637311428785324,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "12.2021": {
+          "avg_sentiment": -0.5158941000699998,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "01.2022": {
+          "avg_sentiment": 0.6029309267178179,
+          "counts": 2,
+          "neutral_count": 0,
+          "positive_count": 2,
+          "negative_count": 0
+        },
+        "03.2022": {
+          "avg_sentiment": -0.539407953619957,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "05.2022": {
+          "avg_sentiment": -0.0661342069506645,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "06.2022": {
+          "avg_sentiment": -0.4716109931468965,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "07.2022": {
+          "avg_sentiment": 0.7914801388978959,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "08.2022": {
+          "avg_sentiment": -0.10832659527659416,
+          "counts": 2,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 1
+        },
+        "09.2022": {
+          "avg_sentiment": 0.8251820001751184,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "11.2022": {
+          "avg_sentiment": 0.445823360234499,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "01.2023": {
+          "avg_sentiment": 0.542449925094843,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "02.2023": {
+          "avg_sentiment": -0.7953313514590263,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "03.2023": {
+          "avg_sentiment": -0.03520724177360535,
+          "counts": 2,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 1
+        },
+        "04.2023": {
+          "avg_sentiment": -0.24564086397488918,
+          "counts": 3,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 2
+        },
+        "05.2023": {
+          "avg_sentiment": -0.4477219171822071,
+          "counts": 2,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 2
+        },
+        "06.2023": {
+          "avg_sentiment": 0.8645680025219918,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 1,
+          "negative_count": 0
+        },
+        "07.2023": {
+          "avg_sentiment": -0.8340131379663944,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "08.2023": {
+          "avg_sentiment": -0.11413786187767982,
+          "counts": 2,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "11.2023": {
+          "avg_sentiment": 0.2509032897651196,
+          "counts": 1,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 0
+        },
+        "01.2024": {
+          "avg_sentiment": -0.12553407748540246,
+          "counts": 3,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 2
+        },
+        "03.2024": {
+          "avg_sentiment": -0.6779882088303566,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "04.2024": {
+          "avg_sentiment": -0.8594752997159958,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "05.2024": {
+          "avg_sentiment": -0.5507860481739044,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "08.2024": {
+          "avg_sentiment": -0.5887818560004234,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "09.2024": {
+          "avg_sentiment": -0.20233362913131714,
+          "counts": 3,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 2
+        },
+        "10.2024": {
+          "avg_sentiment": -0.3321433514356613,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "12.2024": {
+          "avg_sentiment": -0.5782763659954071,
+          "counts": 1,
+          "neutral_count": 0,
+          "positive_count": 0,
+          "negative_count": 1
+        },
+        "01.2025": {
+          "avg_sentiment": -0.11126652732491493,
+          "counts": 2,
+          "neutral_count": 1,
+          "positive_count": 0,
+          "negative_count": 1
+        }
+      }
+    }
+  }
+}
