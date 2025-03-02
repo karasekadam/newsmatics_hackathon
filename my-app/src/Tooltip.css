@@ -1,0 +1,39 @@
+/* Tooltip styling */
+.tooltip {
+  pointer-events: none;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.75);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  pointer-events: none;
+  z-index: 10;
+  transition: opacity 0.2s ease;
+  max-width: 200px;
+}
+
+.tooltip-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.tooltip-content div {
+  margin-bottom: 4px;
+  font-size: 12px;
+}
+
+.tooltip-content strong {
+  font-weight: 600;
+}
+
+/* Tooltip arrow styling */
+.tooltip-arrow {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.75) transparent transparent transparent;
+}
