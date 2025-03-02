@@ -1,0 +1,37 @@
+.sentiment-card-container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   gap: 16px;
+   padding: 16px;
+   background-color: #f9f9f9;
+ }
+ 
+ .sentiment-card {
+   background-color: #fff;
+   border: 1px solid #ddd;
+   border-radius: 8px;
+   padding: 16px;
+   max-width: 300px;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+ }
+ 
+ .card-header h2 {
+   margin: 0 0 12px;
+   font-size: 1.5em;
+   color: #333;
+   border-bottom: 1px solid #eee;
+   padding-bottom: 8px;
+ }
+ 
+ .card-body p {
+   margin: 8px 0;
+   font-size: 0.95em;
+   color: #555;
+ }
+ 
+ .counts p {
+   margin: 4px 0;
+   font-size: 0.9em;
+ }
+ 
